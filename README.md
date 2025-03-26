@@ -1,4 +1,4 @@
-<p align="left">My name is Javier Merino and I am a 4th year informatic engineering student at UPNA.</p>
+<p align="left">My name is Javier Merino and I am a 3th year computer engineering student at UPNA.</p>
 
 ###
 
